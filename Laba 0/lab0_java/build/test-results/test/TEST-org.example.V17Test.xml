@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.V17Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-11-07T15:04:34" hostname="DESKTOP-2H7M1V2" time="0.059">
+  <properties/>
+  <testcase name="testIfTask[0](1, 2, 3, [D@7e990ed7)" classname="org.example.V17Test" time="0.038"/>
+  <testcase name="testIfTask[1](3, 1, 2, [D@6f43c82)" classname="org.example.V17Test" time="0.003"/>
+  <testcase name="testIfTask[2](2, 3, 1, [D@210ab13f)" classname="org.example.V17Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
